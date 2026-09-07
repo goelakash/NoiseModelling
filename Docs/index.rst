@@ -109,7 +109,7 @@ Fundings
 .. _ANR CENSE : https://anr.fr/Projet-ANR-16-CE22-0012
 .. _ANR SYMEXPO : https://symexpo.univ-gustave-eiffel.fr/
 .. _Nature4cities : https://www.nature4cities.eu/
-.. _DGPR : https://www.cerema.fr/fr/projects/plamade-plate-forme-mutualisee-aide-au-diagnostic
+.. _DGPR : https://www.cerema.fr/fr/projets/plamade-plate-forme-mutualisee-aide-au-diagnostic
 
 .. _Université Gustave Eiffel: https://www.univ-gustave-eiffel.fr/
 .. _CNRS: https://www.cnrs.fr
