@@ -4,7 +4,7 @@ Community
 How to contact?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* for **more information** on NoiseModelling, visit the `offical NoiseModelling website`_
+* for **more information** on NoiseModelling, visit the `official NoiseModelling website`_
 * to **contribute to NoiseModelling** source code, follow the ":doc:`Get_Started_Dev`" page
 * to **contact the support / development team**, 
     - open an `issue`_ or a write a `message`_ *(we prefer these two options)*

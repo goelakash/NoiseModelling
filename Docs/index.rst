@@ -18,7 +18,7 @@ It has been widely used for strategic noise mapping, dynamic maps driven by traf
 
 A general overview of the model (v3.4.5 - September 2020) can be found in `this video`_.
 
-* for **more information** on NoiseModelling, visit the `offical NoiseModelling website`_
+* for **more information** on NoiseModelling, visit the `official NoiseModelling website`_
 * to **contribute to NoiseModelling** source code, follow the ":doc:`Get_Started_Dev`" page
 * for **more information** for the final results with the reference results in ISO/TR 17534-4: 2020 follow the ":doc:`Cnossos_Report`" page
 * to **contact the support / development team**, 
@@ -109,7 +109,7 @@ Fundings
 .. _ANR CENSE : https://anr.fr/Projet-ANR-16-CE22-0012
 .. _ANR SYMEXPO : https://symexpo.univ-gustave-eiffel.fr/
 .. _Nature4cities : https://www.nature4cities.eu/
-.. _DGPR : https://www.cerema.fr/fr/projets/plamade-plate-forme-mutualisee-aide-au-diagnostic
+.. _DGPR : https://www.cerema.fr/fr/projects/plamade-plate-forme-mutualisee-aide-au-diagnostic
 
 .. _Université Gustave Eiffel: https://www.univ-gustave-eiffel.fr/
 .. _CNRS: https://www.cnrs.fr
